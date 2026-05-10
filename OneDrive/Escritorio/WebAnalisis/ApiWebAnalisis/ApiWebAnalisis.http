@@ -1,6 +1,0 @@
-@ApiWebAnalisis_HostAddress = http://localhost:5230
-
-GET {{ApiWebAnalisis_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
